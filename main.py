@@ -8,7 +8,7 @@ import struct
 ## This software uses single chip mmWaveRadar point clouds from the ColoRadar dataset(https://arpg.github.io/coloradar//)
 
 # Define point cloud file path and default file
-inp = ".../sing_lechip/pointclouds/data"
+inp = ".../single_chip/pointclouds/data"
 dataname = "radar_pointcloud_1.bin"
 
 # Loads a point cloud from a binary file and returns it as an o3d point cloud object
