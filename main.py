@@ -271,3 +271,4 @@ customVisualizer(pm_c)
 
 # create an animation of meshes made from combined point clouds
 animation()
+
